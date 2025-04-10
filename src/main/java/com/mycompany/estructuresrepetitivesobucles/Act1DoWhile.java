@@ -17,6 +17,7 @@ public class Act1DoWhile {
         int numero;
         //Declarem una variable int, que serà per obtenir la potencia.
         int potencia;
+        //Declarem una variable int, que serà l'iterador.
         int i = 1;
         
         Scanner lector = new Scanner(System.in); /*Declarem una varieble de
